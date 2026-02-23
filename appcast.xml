@@ -8,7 +8,7 @@
         <item>
             <title>Version 1.0.0</title>
             <pubDate>Mon, 23 Feb 2026 14:25:41 +0100</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <enclosure
                 url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.0.zip"
@@ -20,7 +20,7 @@
         <item>
             <title>Version 1.0.1</title>
             <pubDate>Mon, 23 Feb 2026 14:53:32 +0100</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <enclosure
                 url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.1.zip"
@@ -32,7 +32,7 @@
         <item>
             <title>Version 1.0.2</title>
             <pubDate>Mon, 23 Feb 2026 15:04:46 +0100</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <enclosure
                 url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.2.zip"
