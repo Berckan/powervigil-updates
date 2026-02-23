@@ -17,5 +17,17 @@
                 sparkle:edSignature="eVBsCDf3VsQoVLSa+mLM5qK0SC5U6ToTEYMWcWAKpON09a7jSe8Pl4f6uQT8EaSbB09DHyqPSjTVt/6YKkABAA=="
             />
         </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Mon, 23 Feb 2026 14:53:32 +0100</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <enclosure
+                url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.1.zip"
+                length="1942476"
+                type="application/octet-stream"
+                sparkle:edSignature="jFjPGLotDWscE+uW7QIsIPEhwSD54cCkkBdyxwo6Afb/UwbSM6Ixvujuh2l0FjCjQePfp5dYUZ6MeiZo5+CWAA=="
+            />
+        </item>
     </channel>
 </rss>
