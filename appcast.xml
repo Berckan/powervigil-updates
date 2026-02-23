@@ -5,5 +5,17 @@
         <link>https://berckan.github.io/powervigil-updates/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Mon, 23 Feb 2026 14:25:41 +0100</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <enclosure
+                url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.0.zip"
+                length="1941183"
+                type="application/octet-stream"
+                sparkle:edSignature="eVBsCDf3VsQoVLSa+mLM5qK0SC5U6ToTEYMWcWAKpON09a7jSe8Pl4f6uQT8EaSbB09DHyqPSjTVt/6YKkABAA=="
+            />
+        </item>
     </channel>
 </rss>
