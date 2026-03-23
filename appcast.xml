@@ -31,14 +31,14 @@
         </item>
         <item>
             <title>Version 1.0.2</title>
-            <pubDate>Mon, 23 Feb 2026 15:04:46 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Sun, 23 Mar 2026 23:52:14 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <enclosure
                 url="https://berckan.github.io/powervigil-updates/releases/PowerVigil-v1.0.2.zip"
-                length="1943345"
+                length="1945564"
                 type="application/octet-stream"
-                sparkle:edSignature="kxTqj7L8FaamvIxSrIA/YV7vhtDenytJtYXIjo9faYQbG+SyTnfG4USlphXrE+RdfHTW55yMMNi29M4M9wJnAA=="
+                sparkle:edSignature="geAelo69a3ZO3r5tr99VKDqZt67+9dezxJejLkd0+y+zfskKEIHdWgVUlpHx5shud8lZYb3UZEweFqsguFpRCQ=="
             />
         </item>
     </channel>
